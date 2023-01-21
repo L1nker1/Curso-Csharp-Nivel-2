@@ -1,0 +1,11 @@
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 2\Unidad 1\Actividad 2\bin\Debug\Actividad 2.exe.config
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 2\Unidad 1\Actividad 2\bin\Debug\Actividad 2.exe
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 2\Unidad 1\Actividad 2\bin\Debug\Actividad 2.pdb
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 2\Unidad 1\Actividad 2\obj\Debug\Actividad 2.csproj.AssemblyReference.cache
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 2\Unidad 1\Actividad 2\obj\Debug\Actividad 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 2\Unidad 1\Actividad 2\obj\Debug\Actividad_2.Form1.resources
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 2\Unidad 1\Actividad 2\obj\Debug\Actividad_2.Properties.Resources.resources
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 2\Unidad 1\Actividad 2\obj\Debug\Actividad 2.csproj.GenerateResource.cache
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 2\Unidad 1\Actividad 2\obj\Debug\Actividad 2.csproj.CoreCompileInputs.cache
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 2\Unidad 1\Actividad 2\obj\Debug\Actividad 2.exe
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 2\Unidad 1\Actividad 2\obj\Debug\Actividad 2.pdb
