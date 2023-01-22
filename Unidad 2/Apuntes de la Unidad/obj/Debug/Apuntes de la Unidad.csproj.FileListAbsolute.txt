@@ -1,0 +1,8 @@
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 2\Unidad 2\Apuntes de la Unidad\bin\Debug\Apuntes de la Unidad.exe.config
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 2\Unidad 2\Apuntes de la Unidad\bin\Debug\Apuntes de la Unidad.exe
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 2\Unidad 2\Apuntes de la Unidad\bin\Debug\Apuntes de la Unidad.pdb
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 2\Unidad 2\Apuntes de la Unidad\obj\Debug\Apuntes de la Unidad.csproj.AssemblyReference.cache
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 2\Unidad 2\Apuntes de la Unidad\obj\Debug\Apuntes de la Unidad.csproj.SuggestedBindingRedirects.cache
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 2\Unidad 2\Apuntes de la Unidad\obj\Debug\Apuntes de la Unidad.csproj.CoreCompileInputs.cache
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 2\Unidad 2\Apuntes de la Unidad\obj\Debug\Apuntes de la Unidad.exe
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 2\Unidad 2\Apuntes de la Unidad\obj\Debug\Apuntes de la Unidad.pdb

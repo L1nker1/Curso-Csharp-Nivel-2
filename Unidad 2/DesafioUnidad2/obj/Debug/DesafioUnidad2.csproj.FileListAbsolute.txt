@@ -1,0 +1,8 @@
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 2\Unidad 2\DesafioUnidad2\bin\Debug\DesafioUnidad2.exe.config
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 2\Unidad 2\DesafioUnidad2\bin\Debug\DesafioUnidad2.exe
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 2\Unidad 2\DesafioUnidad2\bin\Debug\DesafioUnidad2.pdb
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 2\Unidad 2\DesafioUnidad2\obj\Debug\DesafioUnidad2.csproj.AssemblyReference.cache
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 2\Unidad 2\DesafioUnidad2\obj\Debug\DesafioUnidad2.csproj.SuggestedBindingRedirects.cache
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 2\Unidad 2\DesafioUnidad2\obj\Debug\DesafioUnidad2.csproj.CoreCompileInputs.cache
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 2\Unidad 2\DesafioUnidad2\obj\Debug\DesafioUnidad2.exe
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 2\Unidad 2\DesafioUnidad2\obj\Debug\DesafioUnidad2.pdb
