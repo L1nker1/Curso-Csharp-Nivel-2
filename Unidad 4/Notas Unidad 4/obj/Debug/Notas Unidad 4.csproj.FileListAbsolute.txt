@@ -1,0 +1,12 @@
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 2\Unidad 4\Notas Unidad 4\obj\Debug\Notas Unidad 4.csproj.AssemblyReference.cache
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 2\Unidad 4\Notas Unidad 4\obj\Debug\Notas Unidad 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 2\Unidad 4\Notas Unidad 4\obj\Debug\Notas_Unidad_4.Form1.resources
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 2\Unidad 4\Notas Unidad 4\obj\Debug\Notas_Unidad_4.Properties.Resources.resources
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 2\Unidad 4\Notas Unidad 4\obj\Debug\Notas Unidad 4.csproj.GenerateResource.cache
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 2\Unidad 4\Notas Unidad 4\obj\Debug\Notas Unidad 4.csproj.CoreCompileInputs.cache
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 2\Unidad 4\Notas Unidad 4\bin\Debug\Notas Unidad 4.exe.config
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 2\Unidad 4\Notas Unidad 4\bin\Debug\Notas Unidad 4.exe
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 2\Unidad 4\Notas Unidad 4\bin\Debug\Notas Unidad 4.pdb
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 2\Unidad 4\Notas Unidad 4\obj\Debug\Notas Unidad 4.exe
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 2\Unidad 4\Notas Unidad 4\obj\Debug\Notas Unidad 4.pdb
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 2\Unidad 4\Notas Unidad 4\obj\Debug\Notas_Unidad_4.VentanaPrincipal.resources
